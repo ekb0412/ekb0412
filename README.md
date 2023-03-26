@@ -27,8 +27,6 @@
 
 - 📫 How to reach me **ekanshban483@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mvl7GRhhfFI9ZdRIbTUWBT69xRXSkZbK/view?usp=share_link](https://drive.google.com/file/d/1mvl7GRhhfFI9ZdRIbTUWBT69xRXSkZbK/view?usp=share_link)
-
 - ⚡ Fun fact **I think I am foodieee😁**
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/AHtOXf5J5UYAAAAC/jeetu-jeetu-bhaiya.gif">
 
