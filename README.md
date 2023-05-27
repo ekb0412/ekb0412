@@ -27,14 +27,15 @@
 - 📫 How to reach me **ekanshban483@gmail.com**
 
 - ⚡ Fun fact **I think I am foodieee😁** </h3><br>
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/AHtOXf5J5UYAAAAC/jeetu-jeetu-bhaiya.gif">
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="60" height="60"/> </a>
+<h2 align="center">Languages and Tools:</h2>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="60" height="60"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="60" height="60"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="60" height="60"/> </a> 
+<a href="https://www.verilog.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1498729805625188352/cyIH6Vb7_400x400.jpg" alt="Verilog" width="70" height="70"/> </a>
 <a href="https://www.xilinx.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MueuGCVqqTMVlXMvrxS04cyljzFESLxL33NgKKP50Pyh-OuHtWSvfWKis2BA46VPSqc&usqp=CAU" alt="xilinx" width="60" height="60"/> </a>
-<a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" alt="canva" width="100" height="80"/> </a> </p>
+<a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" alt="canva" width="100" height="60"/> </a> 
+<a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="MS Office" width="60" height="60"/> </a></p>
 <br>
 <div id="image-table">
     <table>
