@@ -10,7 +10,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ekanshbansal5" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="ekanshbansal5" height="60" width="60" /></a>
-<a href="https://linkedin.com/in/ekansh-bansal" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="ekansh-bansal" height="60" width="60" />
+<a href="https://www.linkedin.com/in/ekansh-bansal-asic-vlsi/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="ekansh-bansal" height="60" width="60" />
 <a href="http://ekanshban483@gmail.com/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" alt="ekanshban483@gmail.com" height="60" width="60" /></a>
 <a href="https://instagram.com/ekb_cool" target="blank"><img align="center" src="https://camo.githubusercontent.com/9506780a212223d7f1ef3ef1301965f1e3539e231b7a8fc80ded8b29418b35d8/68747470733a2f2f692e696d6775722e636f6d2f424b4d3172316e2e706e67" alt="ekb_cool" height="60" width="60" /></a>
 <a href="https://www.hackerrank.com/ekanshban483" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="ekanshban483" height="60" width="60" /></a>
