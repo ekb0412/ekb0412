@@ -4,7 +4,7 @@
 <h3 align="center">I take up all Learning opportunities that enhance my skills🧾 and know-how to cope up with failures💪</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekb0412&label=Profile%20views&color=0e75b6&style=flat" alt="ekb0412" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekb0412" alt="ekb0412" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekb0412&title=Commit,Followers,Stars,Repositories,PullRequest&theme=juicyfresh&margin-w=15" alt="ekb0412" /></a> </p>
 <br>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">
 <h2 align="left">Connect with me:</h2>
