@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQE7x_kMsbhpuA/profile-displaybackgroundimage-shrink_350_1400/0/1686493073122?e=1695859200&v=beta&t=TH71LSWX1XP6JGWxfybL9iGrldgedodRXD89_NjqiBI)](https://github.com/ekb0412)
 
 <h1 align="center">Hi 👋, I'm Ekansh Bansal</h1>
 <h3 align="center">I am a Very Ambitious person🥸 </h3>
