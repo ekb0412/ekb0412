@@ -28,7 +28,8 @@
 <a href="https://www.verilog.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1498729805625188352/cyIH6Vb7_400x400.jpg" alt="Verilog" width="70" height="70"/> </a>
 <a href="https://www.xilinx.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MueuGCVqqTMVlXMvrxS04cyljzFESLxL33NgKKP50Pyh-OuHtWSvfWKis2BA46VPSqc&usqp=CAU" alt="xilinx" width="60" height="60"/> </a>
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" alt="canva" width="100" height="60"/> </a> 
-<a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F134474738863424963%2F&psig=AOvVaw2V0a5-aubGu47DsbYSReH0&ust=1698977144125000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID815udpIIDFQAAAAAdAAAAABAI" alt="MS Office" width="60" height="60"/> </a></p>
+<a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixlok.com%2Fimages%2Fmicrosoft-office-logo-png-image-free-download%2F&psig=AOvVaw2T8JeodybOmra3HyHVfJrs&ust=1698977617787000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiJu_2epIIDFQAAAAAdAAAAABAJ" alt="MS Office" width="60" height="60"/> </a> 
+</p>
 <br>
 <div id="image-table">
     <table>
