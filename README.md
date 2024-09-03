@@ -9,10 +9,8 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/ekanshbansal5" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="ekanshbansal5" height="60" width="60" /></a>
 <a href="https://www.linkedin.com/in/ekansh-bansal-04ek122002/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="ekansh-bansal" height="60" width="60" />
 <a href="http://ekanshban483@gmail.com/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" alt="ekanshban483@gmail.com" height="60" width="60" /></a>
-<a href="https://instagram.com/ekb_cool" target="blank"><img align="center" src="https://camo.githubusercontent.com/9506780a212223d7f1ef3ef1301965f1e3539e231b7a8fc80ded8b29418b35d8/68747470733a2f2f692e696d6775722e636f6d2f424b4d3172316e2e706e67" alt="ekb_cool" height="75" width="75" /></a>
 <a href="https://www.hackerrank.com/ekanshban483" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="ekanshban483" height="75" width="75" /></a>
 </p>
 <br>
@@ -28,7 +26,6 @@
 <a href="https://www.verilog.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1498729805625188352/cyIH6Vb7_400x400.jpg" alt="Verilog" width="70" height="70"/> </a>
 <a href="https://www.xilinx.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MueuGCVqqTMVlXMvrxS04cyljzFESLxL33NgKKP50Pyh-OuHtWSvfWKis2BA46VPSqc&usqp=CAU" alt="xilinx" width="60" height="60"/> </a>
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" alt="canva" width="100" height="60"/> </a> 
-<a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixlok.com%2Fimages%2Fmicrosoft-office-logo-png-image-free-download%2F&psig=AOvVaw2T8JeodybOmra3HyHVfJrs&ust=1698977617787000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiJu_2epIIDFQAAAAAdAAAAABAJ" alt="MS Office" width="60" height="60"/> </a> 
 </p>
 <br>
 <div id="image-table">
