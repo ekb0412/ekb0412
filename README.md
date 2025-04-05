@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ekansh Bansal</h1>
 <h3 align="center">I am a Very Ambitious person🥸 </h3>
 <h3 align="center">I take up all Learning opportunities to enhance my skills🧾 and know-how to cope up with failures💪</h3>
@@ -6,7 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekb0412&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15" alt="ekb0412" /></a> </p>
 <br>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">
+<p align="center">
+    <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">
+</p>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/ekansh-bansal-04ek122002/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="ekansh-bansal" height="60" width="60" />
