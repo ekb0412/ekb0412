@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekb0412&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15" alt="ekb0412" /></a> </p>
 <br>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<p align="center">
 <a href="https://www.linkedin.com/in/ekansh-bansal-04ek122002/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="ekansh-bansal" height="60" width="60" />
 <a href="http://ekanshban483@gmail.com/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" alt="ekanshban483@gmail.com" height="60" width="60" /></a>
 <a href="https://www.hackerrank.com/ekanshban483" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="ekanshban483" height="75" width="75" /></a>
@@ -23,6 +23,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="60" height="60"/> </a> 
 <a href="https://www.verilog.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1498729805625188352/cyIH6Vb7_400x400.jpg" alt="Verilog" width="70" height="70"/> </a>
 <a href="https://www.xilinx.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MueuGCVqqTMVlXMvrxS04cyljzFESLxL33NgKKP50Pyh-OuHtWSvfWKis2BA46VPSqc&usqp=CAU" alt="xilinx" width="60" height="60"/> </a>
+<a href="https://www.intel.com" target="_blank" rel="noreferrer"> <img src="https://silentinstallhq.com/altera-quartus-ii-web-edition-13-1-silent-install-how-to-guide/" alt="Altera" width="60" height="60"/> </a>
+	<a href="https://www.siemens.com" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/2020/13/3967/03/questasim/23/" alt="Questasim" width="60" height="60"/> </a>
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" alt="canva" width="100" height="60"/> </a> 
 </p>
 <br>
